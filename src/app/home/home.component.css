@@ -1,0 +1,14 @@
+ActionBar {
+    background: purple;
+    color: white;
+}
+
+.blue {
+    background-color: blue;
+    color: green;
+}
+
+.red {
+    background-color: red;
+    color: green;
+}
